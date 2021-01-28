@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, [Javier Cañón (JackoDev)][website] here 👋
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/jackodev_?color=1DA1F2&label=JackoDev_&logo=twitter&style=for-the-badge)](https://twitter.com/jackodev_)
 
 
 - 🔭 I’m currently working on ...
@@ -10,3 +12,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<!-- LINKS -->
+
+[website]: https://jackodev.github.io/portfoliov1/
