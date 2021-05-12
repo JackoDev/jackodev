@@ -35,7 +35,7 @@
 
 ---
 
-### 📫 How to reach me: 
+### 📫 Contact me: 
 
 - javierc.dev@gmail.com
 <br/>
