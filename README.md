@@ -5,11 +5,10 @@
 ### 💻 Software Developer
 
 - 🔭 I’m currently working with Ruby and RoR
-- 🌱 I’m currently learning AR/VR, Golang and some stuff...
+- 🌱 I'm currently deepening my learning in Ruby and Ruby on Rails
 - 👯 I’m looking to collaborate on any projects for grow up in the IT career ...
 - 🤔 I’m looking for help with my Job Search (Looking for an oportunity)...
 - 💬 Ask me about anything ... (If I don't have answers we can found them together)
-- 😄 Pronouns: He/him
 
 
 ---
