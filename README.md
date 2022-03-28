@@ -4,7 +4,6 @@
 
 ### 💻 Software Developer
 
-- 🔭 I’m currently working with React
 - 👯 I’m looking to collaborate on any projects for grow up in the IT career ...
 
 ---
